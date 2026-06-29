@@ -17,8 +17,8 @@ const alunos = [
     id: 3,
     nome: "João Pedro",
     ra: "11113",
-    nota1: 6.5,
-    nota2: 7.2
+    nota1: 4.5,
+    nota2: 6.2
   },
   {
     id: 4,
@@ -31,7 +31,7 @@ const alunos = [
     id: 5,
     nome: "Carlos Henrique",
     ra: "11115",
-    nota1: 5.7,
+    nota1: 3.7,
     nota2: 6.8
   },
   {
@@ -52,8 +52,8 @@ const alunos = [
     id: 8,
     nome: "Beatriz Lima",
     ra: "11118",
-    nota1: 6.9,
-    nota2: 7.4
+    nota1: 2.9,
+    nota2: 5.4
   },
   {
     id: 9,
@@ -66,8 +66,8 @@ const alunos = [
     id: 10,
     nome: "Juliana Costa",
     ra: "11120",
-    nota1: 7.1,
-    nota2: 9.0
+    nota1: 5.1,
+    nota2: 6.0
   }
 ];
 
