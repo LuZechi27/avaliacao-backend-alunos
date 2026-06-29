@@ -14,7 +14,7 @@ class AuthController {
             { message: "Usuário já existe!" }
         );
 
-        const hash = await bcrypt.hash(password, 8);
+        const hash = await bcrypt.hash(password, 10);
 
         usuarios.push(
             {
